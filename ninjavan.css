@@ -1,0 +1,93 @@
+.header {
+    width: 1100px;
+}
+
+.navibar {
+    position:absolute;
+    top: 30px;
+    left: 810px;
+    width: 700px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.ninjamiddle {
+    position: absolute;
+    top: 100px;
+    left: 660px;
+}
+
+.wordbig {
+    position: absolute;
+    top: 360px;
+    left: 50px;
+}
+
+.button {
+    border-radius: 10px;
+    border: none;
+    padding: 15px 24px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    background-color:rgba(228, 34, 13, 0.89);
+    color:black;
+    
+}
+
+.b1 {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    position:absolute;
+    left: 660px;
+}
+
+.b1:hover {
+
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.footer {
+    position: absolute;
+    top: 650px;
+    width: 1518px;
+    height: 70px;
+    background-color: brown;
+    left: 1px;
+}
+
+.telegram {
+    position: absolute;
+    left: 20px;
+    top: 10px;
+}
+
+.messenger {
+    position: absolute;
+    left: 70px;
+    top: 10px;
+}
+
+.h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.word {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.telegramword {
+    color:aliceblue;
+    position: absolute;
+    font-size: 10px;
+    top: 34px;
+    left: 15px;
+
+}
+
+.messengerword {
+    color:aliceblue;
+    position: absolute;
+    font-size: 10px;
+    top: 34px;
+    left: 65px;
+}
